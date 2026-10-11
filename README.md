@@ -60,7 +60,7 @@ web-dev-projects/
 ## Getting started
 
 ```bash
-git clone https://github.com/<anushkaasarraf>/web-dev-projects.git
+git clone https://github.com/anushkaasarraf/web-dev-projects.git
 cd web-dev-projects
 ```
 
