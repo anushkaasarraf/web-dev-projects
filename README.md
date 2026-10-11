@@ -97,9 +97,9 @@ npx serve .
 
 ## Future improvements
 
+- Portfolio: replace placeholder text and links with real content
 - Weather app: snow icon support, loading and error states, hide the API key
 - To-Do List: filters (all / active / completed)
-- Portfolio: replace placeholder text and links with real content
 
 ## License
 
